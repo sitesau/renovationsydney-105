@@ -1,0 +1,22 @@
+{
+  "wheel_id": 765,
+  "structure": "umbrella",
+  "slug": "renovationsydney-105",
+  "project": "home-renovations-sydney-how-to-choose-8376f40fd1b808e002a402408",
+  "parent_t1_ref": "renovationsydney-152",
+  "node_role": "feeder",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "home renovations sydney how to choose",
+  "intended_url": "https://sitesau.github.io/renovationsydney-105/",
+  "tier": "T2",
+  "writeback_nonce": "28fa41c736451724",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-renovations-sydney-cost-guide-444641ab4c1d546dba12fb09556d/",
+      "anchor": "Home Renovations Sydney Cost Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
